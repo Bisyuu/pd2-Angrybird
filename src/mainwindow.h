@@ -53,7 +53,6 @@ private slots:
 private:
     int birdCount = 0;
 
-
     QTimer timer;
     b2World *world;
     Ui::MainWindow *ui;
